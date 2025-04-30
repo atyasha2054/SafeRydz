@@ -56,16 +56,41 @@ This **user-friendly interface** makes traffic monitoring **seamless & efficient
 
 ---
 
-## 🏆 Why Choose Our System?  
-✨ **Comprehensive Detection** → Multi-class object detection ensures **all road users** are monitored.  
-✨ **Advanced Lane Analysis** → Lane segmentation & tracking **offer deep traffic insights**.  
-✨ **Dynamic Optimization** → **Real-time route suggestions** reduce congestion.  
-✨ **User-Friendly Dashboard** → Monitor & analyze traffic **effortlessly**.  
+🚑 Accident Assistant (New Feature!)
+A built-in Accident Response Assistant in Streamlit empowers instant decision-making in emergencies.
 
-Our **Intelligent Traffic Perception System** integrates:  
-✅ **Object Detection** – YOLOv8 🦾  
-✅ **Lane Segmentation** – UNet 🎯  
-✅ **Tracking** – DeepSORT 🛤️  
+🛠️ Key Capabilities:
+📍 Location Input: Enter accident coordinates or choose from past locations
+
+📸 Scene Analysis: Upload an image to get accident details using Groq’s LLaMA 4 model
+
+🏥 Nearest Facilities: Detect closest hospital and police station
+
+📞 Contact Retrieval: Auto-fetch emergency contact info using LLM queries
+
+📚 Location History: Automatically saves previously entered accident sites
+
+🧠 Powered by Groq API and geospatial Overpass API for smart responses in critical moments.
+
+---
+
+
+🏆 Why Choose Our System?
+✨ Multi-class detection for all road users
+✨ Lane segmentation for deep traffic insights
+✨ Real-time optimization to reduce jams
+✨ Accident support with smart hospital/police suggestions
+✨ Transformer-enhanced YOLOv8 for high precision
+
+Key Features 🚀
+🚗 Multi-Class Detection (YOLOv8)
+🛣️ Lane Segmentation (UNet)
+📊 Lane-wise Vehicle Count
+🚦 Violation Alerts
+📈 Real-Time Dashboard
+🚨 Dynamic Route Optimization
+🤖 Transformer-based Attention
+🚑 Accident Response Module
 
 To **further enhance accuracy**, we’ve **augmented YOLOv8** with **Transformer-based attention modules**. 🤖🚀  
 
@@ -133,3 +158,7 @@ Here’s a list of **key features** and **usage** for your Intelligent Traffic P
 - 🎮 **Ishaan Karmakar** - Web Developer
 
 ---
+
+🚀 Let’s Build the Future of Transportation! 🌎
+Join us in transforming traffic perception, optimizing mobility, and enabling faster emergency responses.
+Let’s make our roads smarter and safer—together! 🌐💡
