@@ -3,7 +3,7 @@
 
 # 🚦 Intelligent Traffic Perception System 🚗🛣️
 
-Welcome to our **Intelligent Traffic Perception System** – a cutting-edge solution designed to **revolutionize traffic management**, **enhance safety**, and **provide actionable insights** for smart cities! 🌍✨
+Welcome to our **Intelligent Traffic Perception System** – a cutting-edge solution designed to **revolutionize traffic management**, **enhance safety**, and **provide actionable insights** for smart cities! 🌍
 
 ---
 
